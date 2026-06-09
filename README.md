@@ -1,12 +1,12 @@
 # Methodology
 
-To operationalize my proposed endeavor—developing a scalable, data-informed STEM Advising Framework for academic recovery and degree persistence among engineering students on probation—I will implement a structured, evidence-based advising and student support system grounded in developmental advising, intrusive intervention theory, and student success models. This methodology integrates Canvas-based modular learning, continuous progress monitoring, holistic student development systems, and data-informed advisor engagement into a replicable institutional framework.
+To operationalize my proposed endeavor developing a scalable, data-informed STEM Advising Framework for academic recovery and degree persistence among engineering students on probation. I will implement a structured, evidence-based advising and student support system grounded in developmental advising, intrusive intervention theory, and student success models. This methodology integrates Canvas-based modular learning, continuous progress monitoring, holistic student development systems, and data-informed advisor engagement into a replicable institutional framework.
 
 The methodology addresses a persistent challenge in U.S. STEM education: high academic stringency leading to elevated attrition rates, gaps in student academic skill readiness, and limited structured intervention post-probation. Traditional advising models are reactive rather than structured and continuous, producing episodic engagement that fails to sustain academic recovery. Rather than treating advising, skill development, and wellness support as separate and sequential functions, this endeavor formalizes probation recovery as a unified, dynamic student success system requiring continuous, coordinated intervention.
 
 The methodology consists of four interdependent pillars forming a closed-loop advising ecosystem: structured intervention through a Canvas-based modular program, academic recovery planning, continuous monitoring with advisor checkpoints, and holistic student development. These pillars are operationalized through a 16-module scaffolded curriculum, a four-phase advising workflow, and embedded accountability tools that transform probation advising from episodic consultation into systematic, data-informed academic recovery.
 
-## Phase I: Structured Intervention — Canvas-Based Modular Program
+## Phase I: Structured Intervention - Canvas-Based Modular Program
 
 The first phase establishes a guided learning experience that transforms advising into a scaffolded, sequential intervention embedded within Canvas. This phase directly addresses the lack of structured post-probation programming by providing a 16-module program that guides students through orientation, skill development, academic planning, continuous monitoring, and outcome evaluation.
 
